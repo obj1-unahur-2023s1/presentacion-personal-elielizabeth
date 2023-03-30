@@ -1,10 +1,9 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+Bienvenidos a mi presentación
+# Elizabeth Albornoz
 
-Bienvenidos a
-# Programación con objetos I
+Mi nombre es Elizabeth Albornoz, tengo 20 años y soy estudiante de la Tecnicatura en Programación.
+![]()
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
 
 ```
 object programacionConObjetos { 
@@ -13,6 +12,21 @@ object programacionConObjetos {
     }
 }
 ```
+
+### Materias Aprobadas:
+* Introducción a la programación
+* Matemática para informática 1
+* Matemática para informática 2
+* Organización de computadoras 1
+* Nuevos Entornos y lenguajes
+* Ingles 1
+* Taller de lenguaje de Marcado
+
+### Materias en curso:
+* Programación con Objetos 1
+* Bases de datos
+* Filosofía
+
 
 ## Datos de la cursada :book:
 * Modalidad Mixta
