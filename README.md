@@ -4,10 +4,8 @@ Bienvenidos a mi presentación
 Mi nombre es Elizabeth Albornoz, tengo 20 años y soy estudiante de la Tecnicatura en Programación. :woman_technologist:
 Lo que más me gusta hacer es dormir siesta :sleeping_bed:
 
-![imagen]()
-
 Tengo un perrito de 3 años llamado Áaron :dog2:
-![perro]()
+![perro](assets/Screenshot_20221111-173007.png)
 
 ### Materias Aprobadas:
 * Introducción a la programación
